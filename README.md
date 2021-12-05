@@ -1,5 +1,5 @@
 # mediatools
-A Docker container of my favorite media tools I use with video
+A Docker container of my favorite media tools I use with video files.
 
 Included in the container is:
 
